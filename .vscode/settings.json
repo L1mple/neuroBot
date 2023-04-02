@@ -14,7 +14,11 @@
         "cfilter",
         "cmap",
         "foldl",
-        "foldr"
+        "foldr",
+        "telebot",
+        "aiogram",
+        "pydantic",
+        "dotenv"
     ],
     "python.analysis.typeCheckingMode": "basic"
 }
